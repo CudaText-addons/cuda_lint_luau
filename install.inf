@@ -1,0 +1,6 @@
+[info]
+title=Linter for Lua, using 'luau-analyze'
+desc=Linter for CudaLint, adds support for Lua lexer, uses "luau-analyze"
+type=cudatext-plugin
+subdir=cuda_lint_luau
+homepage=https://github.com/CudaText-addons/cuda_lint_luau
